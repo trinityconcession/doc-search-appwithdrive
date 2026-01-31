@@ -2,6 +2,7 @@
 maxUploadSize = 50
 
 DRIVE_FOLDER_ID ="1aNm_ySy7qqsXNwk98Rn_G8zqVkmnMoOF"
+SHEET_URL ="1rqZslUF3pgAm4vBTfjQJMw5aLZ5jESC8P4hQcvgxyXU"
 
 [theme]
 base="light"
