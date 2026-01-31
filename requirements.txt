@@ -1,0 +1,12 @@
+streamlit
+numpy
+pypdf
+python-docx
+sentence-transformers
+faiss-cpu
+gspread
+google-auth
+google-api-python-client
+pillow
+pytesseract
+pdf2image
